@@ -1,0 +1,42 @@
+#about {
+    font-size: 30px;
+    color: white;
+}
+
+#portfolio{
+    font-size: 30px;
+    color: white;
+}
+
+#contact {
+    font-size: 30px;
+    color: white;
+}
+
+
+.container {
+  background-color: linen;
+   display: flex;   
+}
+
+body{
+    background-image: url("javascript-vscode-editor-code.jpg");
+    background-repeat: repeat;
+    background-size: 30%;
+}
+
+h1{
+    text-align: center;
+    color:black;
+}
+
+#mainNav{
+    background-color: hsl(206, 100%, 25%);
+    display: flex;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#nameHeader{
+    color: white
+}
